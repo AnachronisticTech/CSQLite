@@ -1,2 +1,2 @@
-import csqlite
+import CSQLite
 
