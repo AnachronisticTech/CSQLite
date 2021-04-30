@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "csqlite",
+    name: "CSQLite",
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(name: "CSQLite", targets: ["CSQLite"]),
